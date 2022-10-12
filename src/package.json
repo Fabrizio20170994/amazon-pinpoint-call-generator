@@ -1,0 +1,10 @@
+{
+  "name": "cognito-phone-verification-code",
+  "version": "1.0.0",
+  "description": "Serverless application to send authentication codes through phone calls.",
+  "main": "src/index.js",
+  "dependencies": {
+    "base64-js": "^1.5.1",
+    "@aws-crypto/client-node": "^1.9.1"
+  }
+}
